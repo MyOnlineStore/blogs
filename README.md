@@ -24,7 +24,7 @@ Is your draft ready? You can now submit it for review by creating a pull-request
 
 ##### 5️⃣ Notify a medium editor
 
-Once your blog is merged, signal a medium editor to get it up on https://medium.com/myonlinestore.
+Once your blog is merged, signal a medium editor to get it up on https://medium.com/myonlinestore. Current editors are: [@CarloPalinckx](https://github.com/CarloPalinckx) and [@hborghols](https://github.com/hborghols).
 
 ##### 6️⃣ Get your post out there
 
