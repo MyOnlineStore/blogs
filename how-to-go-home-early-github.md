@@ -31,9 +31,11 @@ Setting up code owners is easy, check [this guide](https://help.github.com/en/gi
 One thing that helped our team a lot was the addition of [Pull panda](https://pullreminders.com/). It is a slack integration that automatically sends a message to your coworkers when someone requests their review. 
 
 When you request a review, the reviewer gets a message like:
+
 ![Alt screenshot of pull panda request message](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/panda-assigned.png)
 
 If someone approves your pull request, you'll be notified as well:
+
 ![Alt screenshot of pull panda request message](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/panda-approved.png)
 
 Even if someone comments on your pull request, panda will show you the comments right away in slack:
