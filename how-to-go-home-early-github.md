@@ -58,4 +58,18 @@ We configured it so that it merges a pull-request once:
 - All the required reviews are approved
 
 And of course after your pull-request is automatically merged, you get a message from pull panda:
+
 ![Alt screenshot of pull panda automerge message](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/panda-automerge.png)
+
+### Conclusion
+
+I hope this list gave you some inspiration on how automate the little things in your workflow. Even though these steps are probably not the worst bottlenecks for the speed of your team, saving a few minutes per pull-request can quickly add up to something worthwhile.
+
+---
+If you liked this blog, please let us know by giving us some claps, retweets or likes.
+
+If you think working at MyOnlineStore would be something for you, here are our [job openings](https://www.mijnwebwinkel.nl/vacatures) (NL).
+
+If you have questions about this blog or just want to get in touch, you can tweet to me at https://twitter.com/CarloPalinckx
+
+Cheers 👋 
