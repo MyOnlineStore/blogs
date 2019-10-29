@@ -33,3 +33,7 @@ Let's fetch some claps 👏. Share you blog with your co-workers and get it up o
 ##### 7️⃣ Infinite fame
 
 You are now officially a thought leader. Enjoy your nike sponsorship deal and have fun writing thought provoking tweets.
+
+##### Other tips:
+
+- To avoid typo's and grammatical error, install: [grammarly](https://app.grammarly.com/)
