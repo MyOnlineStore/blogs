@@ -24,9 +24,9 @@ To set this up, go to your github repo with actions enabled, click on "New workf
 
 ### Automatically request reviews with "Code owners" 
 
-We can take the automatic labeling of your PR one step further. There is a feature in github called "Code owners" which let's you assign co-workers to certain parts of your application(sGithub will use codeowners to automatically asign reviews.
+We can take the automatic labeling of your PR one step further. There is a feature in github called "Code owners" which let's you assign co-workers to certain parts of your application(s) Github will use codeowners to automatically asign reviews.
 
-![Alt screenshot of reviewers being assigned](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/labeler-marketplace.png)
+![Alt screenshot of reviewers being assigned](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/codeowners.png)
 
 Setting up code owners is easy, check [this guide](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) to get started with code owners.
 
