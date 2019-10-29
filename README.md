@@ -36,4 +36,4 @@ You are now officially a thought leader. Enjoy your nike sponsorship deal and ha
 
 ##### Other tips:
 
-- To avoid typo's and grammatical error, install: [grammarly](https://app.grammarly.com/)
+- To avoid typo's and grammatical errors, install: [grammarly](https://app.grammarly.com/)
