@@ -4,7 +4,7 @@ _This repo contains tech blogs pulished by MyOnlineStore devs. We use github to 
 
 ## Writing a tech blog in 7 easy steps
 
-Got a great idea for a blog? We've written a handy checklist to get you started:
+_Got a great idea for a blog? We've written a handy checklist to get you started:_
 
 ##### 1️⃣ Come up with a topic
 
