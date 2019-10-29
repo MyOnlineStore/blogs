@@ -1,4 +1,4 @@
-# How to automate your workflow and go home early (Pull-requests)
+# How to automate your GitHub workflow and go home early
 
 _If you have more than zero co-workers you are probably using some kind of platform to help you with pull requests and reviews. If your platform of choice is GitHub, you're in luck. We compiled a list of tools and tricks that can help you get your commits merged in that sweet master branch as fast as possible._
 
@@ -28,7 +28,7 @@ Setting up code owners is easy, check [this guide](https://help.github.com/en/gi
 
 ### Let a panda spam your co-workers into submission for reviews.
 
-One thing that helped our team a lot was the addition of [Pull panda](https://pullreminders.com/). It is a slack integration that automatically sends a message to your coworkers when someone requests their review. 
+One thing that helped our team a lot was the addition of [Pull panda](https://pullreminders.com/). It is a Slack integration that automatically sends a message to your co-workers when someone requests their review. 
 
 When you request a review, the reviewer gets a message like:
 
@@ -38,13 +38,13 @@ If someone approves your pull request, you'll be notified as well:
 
 ![Alt screenshot of pull panda request message](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/panda-approved.png)
 
-Even if someone comments on your pull request, panda will show you the comments right away in slack:
+Even if someone comments on your pull request, panda will show you the comments right away in Slack:
 
 ![Alt screenshot of pull panda request message](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/panda-comments.png)
 
-### Automerge the pull request
+### Automatically merge the pull request
 
-Our pull request got labeled automatically, the correct reviewers got assigned automatically and they got a slack message reminding them that there is work to be done. Now there is one last thing ~~we~~ the robots should do, merge the pull request into the master branch! If your team uses any form of automated checks on pull requests, you have probably already wasted some time blindly staring at your screen until the merge button turns green.
+Our pull request got labeled automatically, the correct reviewers got assigned automatically and they got a Slack message reminding them that there is work to be done. Now there is one last thing ~~we~~ the robots should do, merge the pull request into the master branch! If your team uses any form of automated checks on pull requests, you have probably already wasted some time blindly staring at your screen until the merge button turns green.
 
 We can even automate the merging of our pull request with another GitHub action called [automerge](https://github.com/pascalgn/automerge-action). This action automatically merges your pull request based on your team's preferences.
 
@@ -61,7 +61,7 @@ And of course after your pull request is automatically merged, you get a message
 
 ### Conclusion
 
-I hope this list gave you some inspiration on how automate the little things in your workflow. Even though these steps are probably not the worst bottlenecks for the speed of your team, saving a few minutes per pull request can quickly add up to something worthwhile.
+I hope this list gives you some inspiration on how to automate the little things in your workflow. Even though these steps are probably not the worst bottlenecks for the speed of your team, saving a few minutes per pull request can quickly add up to something worthwhile.
 
 ---
 If you liked this blog, please let us know by giving us some claps, retweets or likes.
