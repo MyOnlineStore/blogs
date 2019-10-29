@@ -1,6 +1,6 @@
 # Blogs
 
-_This repo contains tech blogs pulished by MyOnlineStore devs. We use github to version and review blogs._
+_This repo contains tech blogs pulished by MyOnlineStore devs. We use github to version and review blogs. All blogs are placed in the root of the repo as .md file. Enjoy!_
 
 ## Writing a tech blog in 7 easy steps
 
