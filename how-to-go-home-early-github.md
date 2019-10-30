@@ -4,7 +4,7 @@ _If you have more than zero co-workers you are probably using some kind of platf
 
 ### Set up a pull request template
 
-Writing a good pull request template can help you and teammates find a common ground on how to summarize what's in a PR. You can also add add checklist if there are some requirements that have to be met before it can be merged.
+Writing a good pull request template can help you and teammates find a common ground on how to summarize what's in a PR. You can also add a checklist if there are some requirements that have to be met before it can be merged.
 
 ![Alt screenshot of example template](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/pr-template.png)
 
@@ -20,7 +20,7 @@ To set this up, go to your GitHub repo with actions enabled, click on "New workf
 
 ### Automatically request reviews with "Code owners" 
 
-We can take the automatic labeling of your PR one step further. There is a feature in GitHub called "Code owners" which let's you assign co-workers to certain parts of your application(s) GitHub will use codeowners to automatically asign reviews.
+We can take the automatic labeling of your PR one step further. There is a feature in GitHub called "code owners" which let's you assign co-workers to certain parts of your application(s). GitHub will use code owners to automatically assign reviews.
 
 ![Alt screenshot of reviewers being assigned](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/codeowners.png)
 
@@ -28,7 +28,7 @@ Setting up code owners is easy, check [this guide](https://help.github.com/en/gi
 
 ### Let a panda spam your co-workers into submission for reviews.
 
-One thing that helped our team a lot was the addition of [Pull panda](https://pullreminders.com/). It is a Slack integration that automatically sends a message to your co-workers when someone requests their review. 
+One thing that has been very helpful to our team is the addition of [Pull panda](https://pullreminders.com/). It is a Slack integration that automatically sends a message to your co-workers when someone requests their review. 
 
 When you request a review, the reviewer gets a message like:
 
