@@ -10,7 +10,7 @@ Writing a good pull request template can help you and teammates find a common gr
 
 ### Auto label your pull requests
 
-With the new GitHub actions you can automatically label your pull requests based on what files you touched in your PR. This can help a lot with the discoverability of your pull request overview.
+With the new GitHub actions you can automatically label your pull requests based on what files you touched in your pull request. This can help a lot with the discoverability of your pull request overview.
 
 ![Alt screenshot of GitHub action on timeline](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/labeler-timeline.png)
 
@@ -20,7 +20,7 @@ To set this up, go to your GitHub repo with actions enabled, click on "New workf
 
 ### Automatically request reviews with "Code owners" 
 
-We can take the automatic labeling of your PR one step further. There is a feature in GitHub called "code owners" which let's you assign co-workers to certain parts of your application(s). GitHub will use code owners to automatically assign reviews.
+We can take the automatic labeling of your pull request one step further. There is a feature in GitHub called "code owners" which lets you assign co-workers to certain parts of your application(s). GitHub will use code owners to automatically assign reviews.
 
 ![Alt screenshot of reviewers being assigned](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/codeowners.png)
 
@@ -44,15 +44,15 @@ Even if someone comments on your pull request, panda will show you the comments 
 
 ### Automatically merge the pull request
 
-Our pull request got labeled automatically, the correct reviewers got assigned automatically and they got a Slack message reminding them that there is work to be done. Now there is one last thing ~~we~~ the robots should do, merge the pull request into the master branch! If your team uses any form of automated checks on pull requests, you have probably already wasted some time blindly staring at your screen until the merge button turns green.
+After applying all these steps, Our pull request get's labeled automatically, the correct reviewers get assigned automatically and they receive a Slack message reminding them that there is work to be done. Now there is one final thing for ~~us~~ the robots to do, merge the pull request into the master branch! If your team uses any form of automated checks on pull requests, you have probably already wasted some time blindly staring at your screen until the merge button turns green.
 
-We can even automate the merging of our pull request with another GitHub action called [automerge](https://github.com/pascalgn/automerge-action). This action automatically merges your pull request based on your team's preferences.
+With another GitHub action called [automerge](https://github.com/pascalgn/automerge-action), this is a thing of the past. This action automatically merges your pull request based the preferences of your team.
 
 ![Alt screenshot of GitHub merging the pull request](https://raw.githubusercontent.com/MyOnlineStore/blogs/how-to-go-home-early/public/automerge.png)
 
-We configured it so that it merges a pull request once:
+For instance: We set up automerge to merge a pull request once:
 - An "automerge" label is added to the pull request
-- All required checks are complete
+- All required checks are complete and successful
 - All the required reviews are approved
 
 And of course after your pull request is automatically merged, you get a message from pull panda:
