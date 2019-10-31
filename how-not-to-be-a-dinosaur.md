@@ -104,3 +104,14 @@ Take your time: good things take time.
 Be yourself. 
 
 Be awesome. 
+
+---
+If you liked this blog, please let us know by giving us some claps, retweets or likes.
+
+If you think working at MyOnlineStore would be something for you, here are our [job openings](https://www.mijnwebwinkel.nl/vacatures) (NL).
+
+If you have questions about this blog check out what I do in my spare time or just want to get in touch, you can find me at [Bad Decision Works Instagram](https://www.instagram.com/bad_decision_works)
+
+You can find more of our blogs on [Medium](https://medium.com/myonlinestore) 
+
+Cheers 👋 
