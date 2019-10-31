@@ -1,6 +1,6 @@
 # How to _not_ be a dinosaur. And not give a fuck.
 
-This is my story about how I became an experienced senior frontend developer and how I had to start all over again. How it feltlike I had to start all over. How to learn. 
+This is my story about how I became an experienced senior frontend developer and how I had to start all over again. How it **felt like** I had to start all over. How to learn. 
 
 This story is mostly about React, but might apply to other languages as well. Heck, it might even apply to completely different areas of expertise.
 
