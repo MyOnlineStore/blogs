@@ -1,6 +1,6 @@
 # How to _not_ be a dinosaur.
 
-This is the story of how I became an experienced senior frontend developer and how I had to start all over again. How it **felt like** I had to start all over. How to learn. 
+This is the story of how I became an experienced senior frontend developer and how I had to start all over again. How it *felt like* I had to start all over. How to learn. 
 
 This story is mostly about learning React, but might apply to other frameworks as well. Heck, it might even apply to completely different areas of expertise.
 
@@ -51,7 +51,7 @@ But I tried… I tried to keep up with it for a few months and then I was like: 
 
 _Yes, this is me doing design_
 
-Unfortunately, after a year of doing (UX) design, I found out this was the wrong choice. After years of intensive therapy and running into a black hole that was another potential burnout, I came to the conclusion that design was not for me. I am able to design, but I can't handle the stress that goes with it. I felt like I had to answer for all the design choices I made. And since my UX designing is mostly instinct driven, this was really hard for me. And on top of that it all felt very personal. Maybe I can handle it today, with all the things I have learned since, but not then. It fueled my insecurity enormously.
+Unfortunately, after a year of doing (UX) design, I found out this was the wrong choice. After years of intensive therapy and running straight into a black hole that was another potential burnout, I came to the conclusion that design was not for me. I am able to design, but I can't handle the stress that goes with it. I felt like I had to answer and fight for all the design choices I made. And since my UX designing is mostly driven by instinct, this was really hard for me. And on top of that it all felt very personal. Maybe I can handle it today, with all the things I have learned since, but not then. It fueled my insecurity enormously.
 
 And then in late 2018, I decided to go back to frontend development. There I was, a frontend dinosaur in a modern world.
 
@@ -65,11 +65,23 @@ Now I faced a big challenge. I didn't want to go extinct like a real dinosaur an
 
 While I was away in design world a lot has changed within our codebase, but also in The New Frontend World™️. The tools we used improved or were replaced with better alternatives. The tools and codebase became more solid and mature.
 
-Then there was news: React Hooks was about to be released. This made code _so_ much more readable that I started thinking "Hmm, maybe I can do this".
+Then there was news: [React Hooks](https://reactjs.org/docs/hooks-overview.html#%EF%B8%8F-effect-hook) was about to be released in React 16.8. This made code _so_ much more readable that I started thinking "Hmm, maybe I can do this".
 
-**[insert: elaboration on the hooks vs classes thing]**
+I don't want to go all geeky on the differences between hooks and classes and why hooks are so awesome, especially since there are [excellent](https://reactjs.org/docs/hooks-intro.html) articles [written](https://itnext.io/whats-the-big-deal-with-react-hooks-d73145eb14e0) on this [subject](https://medium.com/frontmen/react-hooks-why-and-how-e4d2a5f0347). If you like to learn more about this, you should check [them](https://reactjs.org/docs/hooks-overview.html) out.
 
-**[insert: more elaboration on the revelation moment]**
+For me personally the biggest thing was the improved simplicity of function components in hooks. Where it felt like jumping to hoops to keep track of some kind of state, hooks just let me use [`useState()`](https://reactjs.org/docs/hooks-state.html).
+
+For example, in oldskool classes, I used to write this to increment a counter:
+```javascript
+this.setState({ count: this.state.count + 1 })
+```
+
+Where hooks let me do this:
+
+```javascript
+setCount(count + 1)
+```
+I bet that if you are reading this you'll understand it even if you have little (react) programming experience.
 
 After this "challenge accepted!" point the hardest obstacle had to be overwon: how to handle the "I have to start all over again" feeling. I felt like I knew nothing. I was Jon Snow.
 
@@ -83,7 +95,7 @@ Some people will think "what's the big deal?", and I am happy for you if you do,
 
 So I did two things: I decided to start learning all these new tools and frameworks and more importantly I started to ask for help. But the most important thing I did: I told my colleagues how I was feeling and how insecure I was about everything. They were very supportive and this gave me the confidence to go for it.
 
-**[insert: how did they exactly respond]**
+One of the most important things they gave me is that they showed me that I did make progress. A lot, actually. And that it's not the end of the world not knowing everything. As long as I kept learning, things will work out in the end, was the message I got.
 
 Also, I realised I did not have to start all over again. It might have felt like it, but I still had a big headstart with my years of experience in programming overall. It was just a new framework and new tools that I needed to learn, not learning how to speak and not the first tool I ever used.
 
