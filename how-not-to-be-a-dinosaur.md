@@ -45,13 +45,13 @@ It was 2017 already. I did not know where to start. I didn't dare to ask for hel
 
 But I tried… I tried to keep up with it for a few months and then I was like: "I don't get it! fuck this shit!" 
 
-"I had been doing design _and_ development 50/50 for all of my career, so now it's time to say goodbye to one of these and focus on the other." And since I got _so_ scared of The New Frontend World, I fled to the design department of [MyOnlineStore](https://www.myonlinestore.com/). This was in early 2018.
+"I have been doing design _and_ development 50/50 for all of my career, so now it's time to say goodbye to one of these and focus on the other." And since I got _so_ scared of The New Frontend World, I fled to the design department of [MyOnlineStore](https://www.myonlinestore.com/). This was in early 2018.
 
 ![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan-drawing.gif)
 
 _Yes, this is me doing design_
 
-Unfortunately, after a year of doing (UX) design, I found out this was the wrong choice. After years of intensive therapy and running straight into a black hole that was another potential burnout, I came to the conclusion that design was not for me. I am able to design, but I can't handle the stress that goes with it. I felt like I had to answer and fight for all the design choices I made. And since my UX designing is mostly driven by instinct, this was really hard for me. And on top of that it all felt very personal. Maybe I can handle it today, with all the things I have learned since, but not then. It fueled my insecurity enormously.
+Unfortunately, after a year of doing (UX) design, I found out this was the wrong choice. After years of intensive therapy and running straight into a black hole that was another potential burnout, I came to the conclusion that design was not for me. I am able to design, but I can't handle the stress that goes with it. I felt like I had to answer and fight for all the design choices I made. And since my UX designing is mostly driven by instinct, this was really hard for me. And on top of that it all felt very personal. Maybe I can handle it today or in the near future, with all the things I have learned since, but not then. It fueled my insecurity enormously.
 
 And then in late 2018, I decided to go back to frontend development. There I was, a frontend dinosaur in a modern world.
 
