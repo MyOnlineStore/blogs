@@ -12,7 +12,7 @@ It is 2019 now and I am 37 years old. I have been working for 15+ years professi
 
 _This is not me. But it could have been if I had such an awesome mustache at the age of ten_
 
-In the years working as a developer I have seen the landscape around me change drastically. When I started designing and coding in the early 2000's, CSS, some javascript and later jQuery was all I needed to master being a frontender. I also added some backend code (PHP and even Coldfusion in a dark era) to be able to integrate your frontend code with the backend. So for years I could design a project, code it and integrate it. At one point I was named a full stack developer. Life was simple. Even simpler when post processors like SCSS came to life. I was like "I got this, bro!"
+In the years working as a developer I have seen the landscape around me change drastically. When I started designing and coding in the early 2000's, CSS, some javascript and later jQuery was all I needed to master being a frontender. I also added some backend code (PHP and even Coldfusion in a dark era) to be able to integrate the frontend code with the backend. So for years I could design a project, code it and integrate it. At one point I was named a full stack developer. Life was simple. Even simpler when post processors like SCSS came to life. I was like "I got this, bro!"
 
 ![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan_happy.png)
 
