@@ -67,7 +67,7 @@ While I was away in design world a lot has changed within our codebase, but also
 
 Then there was news: [React Hooks](https://reactjs.org/docs/hooks-overview.html#%EF%B8%8F-effect-hook) was about to be released in React 16.8. This made code _so_ much more readable that I started thinking "Hmm, maybe I can do this".
 
-I don't want to go all geeky on the differences between hooks and classes and why hooks are so awesome, especially since there are many [excellent](https://reactjs.org/docs/hooks-intro.html) articles [written](https://itnext.io/whats-the-big-deal-with-react-hooks-d73145eb14e0) on this [subject](https://medium.com/frontmen/react-hooks-why-and-how-e4d2a5f0347). If you ouwld like to learn more about this, you should check [them](https://reactjs.org/docs/hooks-overview.html) out.
+I don't want to go all geeky on the differences between hooks and classes and why hooks are so awesome, especially since there are many [excellent](https://reactjs.org/docs/hooks-intro.html) articles [written](https://itnext.io/whats-the-big-deal-with-react-hooks-d73145eb14e0) on this [subject](https://medium.com/frontmen/react-hooks-why-and-how-e4d2a5f0347). If you would like to learn more about this, you should check [them](https://reactjs.org/docs/hooks-overview.html) out.
 
 For me personally the biggest thing was the improved simplicity of using hooks in function components compared to using class components. Where it felt like class components made me jump through hoops to keep track of of state, hooks just let me use [`useState()`](https://reactjs.org/docs/hooks-state.html).
 
