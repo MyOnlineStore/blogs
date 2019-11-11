@@ -12,7 +12,7 @@ It is 2019 now and I am 37 years old. I have been working for 15+ years professi
 
 _This is not me. But it could have been if I had such an awesome mustache at the age of ten_
 
-In the years working as a developer I have seen the landscape around me change drastically. When I started designing and coding in the early 2000's, CSS, some javascript and later jQuery was all I needed to master being a frontender. Oh, and I also added some backend code (PHP and even Coldfusion in a dark era) to be able to integrate your frontend code with the backend. So for years I could design a project, code it and integrate it. At one point I was named a full stack developer. Life was simple. Even simpler when post processors like SCSS came to life. I was like "I got this, bro!"
+In the years working as a developer I have seen the landscape around me change drastically. When I started designing and coding in the early 2000's, CSS, some javascript and later jQuery was all I needed to master being a frontender. I also added some backend code (PHP and even Coldfusion in a dark era) to be able to integrate your frontend code with the backend. So for years I could design a project, code it and integrate it. At one point I was named a full stack developer. Life was simple. Even simpler when post processors like SCSS came to life. I was like "I got this, bro!"
 
 ![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan_happy.png)
 
@@ -20,7 +20,7 @@ _Also not me._
 
 ## So what changed?
 
-So I was happily writing SCSS, JS and some PHP, but then around 2012 the world started to change around me. I saw more and more articles about fancy frameworks like AngularJS on Twitter. At some point it seemed like every day new frameworks were being released. I was naturally drawn to this, but couldn't keep up and got a little overwhelmed by the seeming complexity of some of these frameworks. And I also suffered a bit of [metathesiophobia](https://www.fearof.net/fear-of-change-phobia-metathesiophobia/).
+So I was happily writing SCSS, JS and some PHP, but then around 2012 the world started to change around me. I saw more and more articles about fancy frameworks like AngularJS on Twitter. At some point it seemed like new frameworks were being released every day. I was naturally drawn to this, but couldn't keep up and got a little overwhelmed by the seeming complexity of some of these frameworks. And I also suffered a bit of [metathesiophobia](https://www.fearof.net/fear-of-change-phobia-metathesiophobia/).
   
 ![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan_worried.png)
 
@@ -51,7 +51,7 @@ But I tried… I tried to keep up with it for a few months and then I was like: 
 
 _Yes, this is me doing design_
 
-Unfortunately, after a year of doing (UX) design, I found out this was the wrong choice. After years of intensive therapy and running straight into a black hole that was another potential burnout, I came to the conclusion that design was not for me. I am able to design, but I can't handle the stress that goes with it. I felt like I had to answer and fight for all the design choices I made. And since my UX designing is mostly driven by instinct, this was really hard for me. And on top of that it all felt very personal. Maybe I can handle it today or in the near future, with all the things I have learned since, but not then. It fueled my insecurity enormously.
+Unfortunately, after a year of doing (UX) design, I found out this was the wrong choice. After years of intensive therapy and running straight into a black hole that was another potential burnout, I came to the conclusion that design was not for me. I am able to design, but I can't handle the stress that goes with it. I felt like I had to answer and fight for all the design choices I made. And since my UX designing was mostly driven by instinct, this was really hard for me. On top of that it all felt very personal. Maybe I can handle it today or in the near future, with all the things I have learned since, but not then. It fueled my insecurity enormously.
 
 And then in late 2018, I decided to go back to frontend development. There I was, a frontend dinosaur in a modern world.
 
@@ -67,9 +67,9 @@ While I was away in design world a lot has changed within our codebase, but also
 
 Then there was news: [React Hooks](https://reactjs.org/docs/hooks-overview.html#%EF%B8%8F-effect-hook) was about to be released in React 16.8. This made code _so_ much more readable that I started thinking "Hmm, maybe I can do this".
 
-I don't want to go all geeky on the differences between hooks and classes and why hooks are so awesome, especially since there are [excellent](https://reactjs.org/docs/hooks-intro.html) articles [written](https://itnext.io/whats-the-big-deal-with-react-hooks-d73145eb14e0) on this [subject](https://medium.com/frontmen/react-hooks-why-and-how-e4d2a5f0347). If you like to learn more about this, you should check [them](https://reactjs.org/docs/hooks-overview.html) out.
+I don't want to go all geeky on the differences between hooks and classes and why hooks are so awesome, especially since there are many [excellent](https://reactjs.org/docs/hooks-intro.html) articles [written](https://itnext.io/whats-the-big-deal-with-react-hooks-d73145eb14e0) on this [subject](https://medium.com/frontmen/react-hooks-why-and-how-e4d2a5f0347). If you ouwld like to learn more about this, you should check [them](https://reactjs.org/docs/hooks-overview.html) out.
 
-For me personally the biggest thing was the improved simplicity of function components in hooks. Where it felt like jumping to hoops to keep track of some kind of state, hooks just let me use [`useState()`](https://reactjs.org/docs/hooks-state.html).
+For me personally the biggest thing was the improved simplicity of using hooks in function components compared to using class components. Where it felt like class components made me jump through hoops to keep track of of state, hooks just let me use [`useState()`](https://reactjs.org/docs/hooks-state.html).
 
 For example, in oldskool classes, I used to write this to increment a counter:
 ```javascript
@@ -81,7 +81,7 @@ Where hooks let me do this:
 ```javascript
 setCount(count + 1)
 ```
-I bet that if you are reading this you'll understand it even if you have little (react) programming experience.
+I bet that if you are reading this you'll feel that the second version is simpler even if you have little (react) programming experience.
 
 After this "challenge accepted!" point the hardest obstacle had to be overwon: how to handle the "I have to start all over again" feeling. I felt like I knew nothing. I was Jon Snow.
 
@@ -95,9 +95,9 @@ Some people will think "what's the big deal?", and I am happy for you if you do,
 
 So I did two things: I decided to start learning all these new tools and frameworks and more importantly I started to ask for help. But the most important thing I did: I told my colleagues how I was feeling and how insecure I was about everything. They were very supportive and this gave me the confidence to go for it.
 
-One of the most important things they gave me is that they showed me that I did make progress. A lot, actually. And that it's not the end of the world not knowing everything. As long as I kept learning, things will work out in the end, was the message I got.
+One of the most supportive things they did is showing me that I did make progress. A lot, actually. They also showed me that not knowing everything is not the end of the world. As long as I you keep trying and learning, things will work out in the end.
 
-Also, I realised I did not have to start all over again. It might have felt like it, but I still had a big headstart with my years of experience in programming overall. It was just a new framework and new tools that I needed to learn, not learning how to speak and not the first tool I ever used.
+Soon, I also realized I did not have to start all over again at all. It might have felt like it, but I still had a big headstart with my years of experience in programming overall. It was just a new framework and new tools that I needed to learn, not learning how to speak and not the first tool I ever used.
 
 It will take some time to learn all these new things. And that's okay. Good things take time. I should have realised this earlier since it's litteraly written on my body, but sadly it's not that obvious sometimes.
 
@@ -113,7 +113,7 @@ For example: I now know how to set up a project using Babel, although I have no 
 
 Bottomline is that it is okay to not know things. It's not the amount of things you know that make you a senior developer, it's the way you handle things [that make you a senior](https://medium.com/better-programming/how-to-be-a-good-senior-developer-958948e02ada). In my opinion.
 
-I have always tried to take some time for personal growth once in a while, but this was only a few spare hours now and then. However, since a few months our company [MyOnlineStore](https://www.myonlinestore.com/) is doing so called [Ship-it days](https://www.atlassian.com/company/shipit) where we developers can do whatever we want as long as it's somehow work related. This is a great way for me to learn stuff I might not naturally learn during everyday work. When I work in our normal codebase I just run `yarn dev` and storybook starts and that's it. But on these ship-it days I create new repo's, install packages and set them up. That is a great way to learn new things.
+I have always tried to take some time for personal growth once in a while, but this was only a few spare hours every now and then. However, since a few months our company [MyOnlineStore](https://www.myonlinestore.com/) is doing so called [Ship-it days](https://www.atlassian.com/company/shipit) where we developers can do whatever we want as long as it's somehow work related. This is a great way for me to learn stuff I might not naturally learn during everyday work. When I work in our normal codebase I just run `yarn dev`, storybook starts and that's it. But on these ship-it days I create new repo's, install packages and configure everything myself. That is a great way to learn new things.
 
 ## Conclusion
 
