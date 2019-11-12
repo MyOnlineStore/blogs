@@ -8,13 +8,13 @@ This story is mostly about learning React, but might apply to other frameworks a
 
 It is 2019 now and I am 37 years old. I have been working for 15+ years professionally as a web developer and web designer. After highschool I went to design school and learned to be a designer. But I have also always been interested in coding. In the early 90's I was already writing code in [GW-Basic](https://nl.wikipedia.org/wiki/GW-BASIC). I can recall writing my first lines of code in the last grade of primary school. Later I learned HTML and even a little PHP 3. In design school I also learned Flash and OOP in [Lingo](https://en.wikipedia.org/wiki/Lingo_(programming_language)). When my class got the task to code a simple dice rolling program, I wrote the complete Monopoly game. Just because writing code was a never ending path of discovery, wonder and [dopamine](https://www.npr.org/sections/ed/2014/10/24/357811146/curiosity-it-may-have-killed-the-cat-but-it-helps-us-learn?t=1572532599814).
 
-![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan_old.png)
+![](https://raw.githubusercontent.com/MyOnlineStore/blogs/master/public/johan_old.png)
 
 _This is not me. But it could have been if I had such an awesome mustache at the age of ten_
 
 In the years working as a developer I have seen the landscape around me change drastically. When I started designing and coding in the early 2000's, CSS, some javascript and later jQuery was all I needed to master being a frontender. I also added some backend code (PHP and even Coldfusion in a dark era) to be able to integrate the frontend code with the backend. So for years I could design a project, code it and integrate it. At one point I was named a full stack developer. Life was simple. Even simpler when post processors like SCSS came to life. I was like "I got this, bro!"
 
-![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan_happy.png)
+![](https://raw.githubusercontent.com/MyOnlineStore/blogs/master/public/johan_happy.png)
 
 _Also not me._
 
@@ -22,7 +22,7 @@ _Also not me._
 
 So I was happily writing SCSS, JS and some PHP, but then around 2012 the world started to change around me. I saw more and more articles about fancy frameworks like AngularJS on Twitter. At some point it seemed like new frameworks were being released every day. I was naturally drawn to this, but couldn't keep up and got a little overwhelmed by the seeming complexity of some of these frameworks. And I also suffered a bit of [metathesiophobia](https://www.fearof.net/fear-of-change-phobia-metathesiophobia/).
   
-![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan_worried.png)
+![](https://raw.githubusercontent.com/MyOnlineStore/blogs/master/public/johan_worried.png)
 
 _Still not me._ 
 
@@ -30,7 +30,7 @@ Then one day I attended a meetup where some guy enthusiastically demonstrated An
 
 So that was it for me. This new stuff was overly complex, scary and most of all: I could write this accordion list in less than 1kb of vanilla JS. Or maybe even without JS in CSS and HTML only… My common sense said: "Why the **** would you use something _so_ complex for something _so_ simple?!"
 
-![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan_wtf1.png)  
+![](https://raw.githubusercontent.com/MyOnlineStore/blogs/master/public/johan_wtf1.png)  
 
 At that time I was the only frontend developer at [MyOnlineStore](https://www.myonlinestore.com/). And I have always been the only frontend developer for all my previous employers. So there was nobody to convince me that it would be wise to embrace these new techniques.
 
@@ -38,7 +38,7 @@ At that time I was the only frontend developer at [MyOnlineStore](https://www.my
 
 In late 2015, when I was already late to the party I got sick. A severe burnout followed by a big relapse one year later while I was still recovering. When I felt a bit better after a while and came back to the [MyOnlineStore](https://www.myonlinestore.com/) offices everything had changed. There were two new frontend developers. With new repos, new code, new words, new everything!
 
-![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan_wtf2.png)
+![](https://raw.githubusercontent.com/MyOnlineStore/blogs/master/public/johan_wtf2.png)
   
 
 It was 2017 already. I did not know where to start. I didn't dare to ask for help, because of my misplaced pride. I was writing code before some of my new colleagues were even born… and now I should go to these guys and admit I had no clue what I was doing?
@@ -47,7 +47,7 @@ But I tried… I tried to keep up with it for a few months and then I was like: 
 
 "I have been doing design _and_ development 50/50 for all of my career, so now it's time to say goodbye to one of these and focus on the other." And since I got _so_ scared of The New Frontend World, I fled to the design department of [MyOnlineStore](https://www.myonlinestore.com/). This was in early 2018.
 
-![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan-drawing.gif)
+![](https://raw.githubusercontent.com/MyOnlineStore/blogs/master/public/johan-drawing.gif)
 
 _Yes, this is me doing design_
 
@@ -55,7 +55,7 @@ Unfortunately, after a year of doing (UX) design, I found out this was the wrong
 
 And then in late 2018, I decided to go back to frontend development. There I was, a frontend dinosaur in a modern world.
 
-![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan_dino.png)
+![](https://raw.githubusercontent.com/MyOnlineStore/blogs/master/public/johan_dino.png)
 
 _Yes this is me._
 
@@ -89,7 +89,7 @@ After this "challenge accepted!" point the hardest obstacle had to be overwon: h
 
 Who had I been kidding all these years calling myself a senior developer? How embarrassing was it that I had to ask my 12 years younger colleague for help over and over again...  
 
-![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan_knowsnothing.png)
+![](https://raw.githubusercontent.com/MyOnlineStore/blogs/master/public/johan_knowsnothing.png)
 
 Some people will think "what's the big deal?", and I am happy for you if you do, but you have to understand that asking for help was a big issue for me. And a major cause for my burn out and the personality disorder that came with it.
 
@@ -101,7 +101,7 @@ Soon, I also realized I did not have to start all over again at all. It might ha
 
 It will take some time to learn all these new things. And that's okay. Good things take time. I should have realised this earlier since it's litteraly written on my body, but sadly it's not that obvious sometimes.
 
-![](https://raw.githubusercontent.com/MyOnlineStore/blogs/Dinosaurusblog/public/johan_arm.png)
+![](https://raw.githubusercontent.com/MyOnlineStore/blogs/master/public/johan_arm.png)
 
 _Yes, this is also me._
 
